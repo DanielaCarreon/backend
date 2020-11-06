@@ -3,7 +3,7 @@
 include 'conexion.inc.php';
 //ini_set('display_errors',0);
 class Articulo extends Conectar {
-    //todo
+    //todo modif
     private $db;
     
     public function __construct(){
